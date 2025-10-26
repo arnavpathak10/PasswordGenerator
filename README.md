@@ -30,9 +30,13 @@
   The script will prompt you to specify the desired password length and whether to include uppercase letters, digits, and symbols.
 
 📂 Project Structure
+
   PasswordGenerator/
+  
   │
+  
   ├── passwordGen.py      # Main script to generate passwords
+  
   └── README.md           # Project documentation
 
 🤝 Contributing
